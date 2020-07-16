@@ -1,4 +1,4 @@
-/* Generated on: Thu Jul 16 2020 11:27:03 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Jul 16 2020 18:07:18 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -12708,6 +12708,7 @@ img {
 }
 
 .button-copy-copy-copy-copy-copy-copy.green {
+  display: block;
   min-width: 300px;
   background-color: #8cc455;
   color: #fff;
@@ -14885,10 +14886,7 @@ img {
 }
 
 .div-block-84-copy {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+  display: none;
   max-width: 650px;
   margin-bottom: 40px;
   -webkit-box-orient: vertical;
@@ -16743,6 +16741,10 @@ img {
   background-color: #f2f2f2;
 }
 
+.section-21-copy.priv {
+  display: none;
+}
+
 .heading-22 {
   margin-top: 100px;
   margin-bottom: 60px;
@@ -16750,6 +16752,7 @@ img {
   color: #c3264e;
   line-height: 50px;
   font-weight: 600;
+  text-align: center;
 }
 
 .div-block-128 {
@@ -16796,14 +16799,16 @@ img {
 }
 
 .button-8.probel {
+  display: none;
   margin-top: 0px;
 }
 
+.button-8.probel.w--current {
+  display: block;
+}
+
 .div-block-130 {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+  display: none;
   width: 100%;
   margin-top: 0px;
   padding-top: 40px;
