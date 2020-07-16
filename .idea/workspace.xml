@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01f579be-a028-4402-bf3a-3c33f6259b95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Empty Mind Map" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dM3NPNhIp66KsGm2gSb4bTpiFO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="NBMindMap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.igormaznitsa.ideamindmap.settings.MindMapSettingsComponent" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../template/dreamgrower/js/script.js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/fonts" />
+      <recent name="$PROJECT_DIR$/source/javascripts" />
+      <recent name="$PROJECT_DIR$/source/images" />
+      <recent name="$PROJECT_DIR$/source/stylesheets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="IRB.IRB: test-middleman">
+    <configuration name="IRB: test-middleman" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
+      <module name="test-middleman" />
+      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$APPLICATION_HOME_DIR$/plugins/ruby/rb/testing/runner/irb.rb" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="--simple-prompt --singleline" />
+      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="IrbRunConfigurationType" factoryName="IRB console">
+      <module name="test-middleman" />
+      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ShConfigurationType">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="middleman s" type="ShConfigurationType">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="cd $PROJECT_DIR$ &amp;&amp;" />
+      <option name="SCRIPT_OPTIONS" value="middleman s" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="IRB.IRB: test-middleman" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01f579be-a028-4402-bf3a-3c33f6259b95" name="Default Changelist" comment="" />
+      <created>1592221093656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592221093656</updated>
+      <workItem from="1592221094740" duration="6094000" />
+      <workItem from="1592233030436" duration="3195000" />
+      <workItem from="1592255153359" duration="744000" />
+      <workItem from="1592256289351" duration="20000" />
+      <workItem from="1592256476564" duration="5913000" />
+      <workItem from="1592292573339" duration="7095000" />
+      <workItem from="1592328242665" duration="4418000" />
+      <workItem from="1592467156829" duration="873000" />
+      <workItem from="1592469883862" duration="313000" />
+      <workItem from="1592848240663" duration="650000" />
+      <workItem from="1592853604122" duration="582000" />
+      <workItem from="1593182253836" duration="111000" />
+      <workItem from="1593182377263" duration="54000" />
+      <workItem from="1593182441597" duration="43000" />
+      <workItem from="1593431825586" duration="9456000" />
+      <workItem from="1593512289939" duration="57000" />
+      <workItem from="1593512356948" duration="195000" />
+      <workItem from="1593513203020" duration="2079000" />
+      <workItem from="1593604952720" duration="44000" />
+      <workItem from="1593605021607" duration="15000" />
+      <workItem from="1593605037231" duration="14000" />
+      <workItem from="1593605062177" duration="1433000" />
+      <workItem from="1593616646292" duration="6161000" />
+      <workItem from="1593707626877" duration="1273000" />
+      <workItem from="1593797766625" duration="24000" />
+      <workItem from="1593797803456" duration="210000" />
+      <workItem from="1593800443662" duration="314000" />
+      <workItem from="1593801423199" duration="144000" />
+      <workItem from="1593877371745" duration="120000" />
+      <workItem from="1593877505095" duration="17000" />
+      <workItem from="1594892043339" duration="2326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="171" width="812" height="718" key="#Plugins" timestamp="1593877490672">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="554" y="171" width="812" height="718" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1593877490672" />
+    <state x="417" y="185" width="1119" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592293836626">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="417" y="185" width="1119" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592293836626" />
+    <state x="95" y="71" width="1730" height="914" key="DiffContextDialog" timestamp="1593617302107">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="95" y="71" width="1730" height="914" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593617302107" />
+    <state x="758" y="285" width="436" height="490" key="FileChooserDialogImpl" timestamp="1593877520414">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="758" y="285" width="436" height="490" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1593877520414" />
+    <state width="1918" height="313" key="GridCell.Tab.0.bottom" timestamp="1593182324533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1918" height="313" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593182324533" />
+    <state width="1918" height="313" key="GridCell.Tab.0.center" timestamp="1593182324533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1918" height="313" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593182324533" />
+    <state width="1918" height="313" key="GridCell.Tab.0.left" timestamp="1593182324533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1918" height="313" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593182324533" />
+    <state width="1918" height="313" key="GridCell.Tab.0.right" timestamp="1593182324533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1918" height="313" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593182324533" />
+    <state x="533" y="264" width="853" height="531" key="IDE.errors.dialog" timestamp="1593513439720">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="533" y="264" width="853" height="531" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593513439720" />
+    <state x="485" y="163" width="1367" height="734" key="SettingsEditor" timestamp="1593801559786">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="485" y="163" width="1367" height="734" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1593801559786" />
+    <state x="554" y="263" width="812" height="534" key="Vcs.Push.Dialog.v2" timestamp="1593182317020">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="554" y="263" width="812" height="534" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1593182317020" />
+    <state x="623" y="218" width="672" height="678" key="search.everywhere.popup" timestamp="1594892844563">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="218" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1594892844563" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test_template@IRB__test_middleman.rcov" NAME="IRB: test-middleman Coverage Results" MODIFIED="1592467322796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test-middleman" />
+  </component>
+</project>
