@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.407307in" height="0.407283in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 14.79 14.79"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#753A87;fill-rule:nonzero}
+    .fil0 {fill:#9A59B6;fill-rule:nonzero}
+    .fil3 {fill:#F0C30F;fill-rule:nonzero}
+    .fil2 {fill:#F29A11;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="__x0023_Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2314211163056">
+   <g>
+    <path class="fil0" d="M14.79 7.39c0,4.08 -3.31,7.39 -7.4,7.39 -4.08,0 -7.39,-3.31 -7.39,-7.39 0,-4.08 3.31,-7.39 7.39,-7.39 4.08,0 7.4,3.31 7.4,7.39z"/>
+    <path class="fil1" d="M14.79 7.39c0,-0.08 -0,-0.15 -0,-0.23l-2.22 -2.22 -0.69 -0.4 -0.69 -0.4 -2.61 0c-0,-0 -0,-0 -0,-0l-1.17 -1.17c-0.08,-0.1 -0.21,-0.17 -0.35,-0.17 -0.25,0 -0.45,0.2 -0.45,0.45 0,0.14 0.07,0.27 0.17,0.35l0.26 0.26 -0.24 0 0 1.35 -0.23 -0.23 -2.95 0 -0.69 0.4 -0.69 0.4 4.57 4.57 0 1.63 2.55 2.55c3.14,-0.85 5.45,-3.73 5.45,-7.14z"/>
+   </g>
+   <polygon class="fil2" points="7.32,11.98 6.79,11.98 6.79,3.87 7.32,3.87 "/>
+   <path class="fil2" d="M7.5 3.26c0,0.25 -0.2,0.45 -0.45,0.45 -0.25,0 -0.45,-0.2 -0.45,-0.45 0,-0.25 0.2,-0.45 0.45,-0.45 0.25,0 0.45,0.2 0.45,0.45z"/>
+   <polygon class="fil3" points="3.61,4.98 2.91,5.38 2.22,5.78 2.91,6.18 3.61,6.58 6.56,6.58 6.56,4.98 "/>
+   <g>
+    <polygon class="fil3" points="11.18,5.75 11.88,5.35 12.57,4.95 11.88,4.55 11.18,4.15 7.55,4.15 7.55,5.75 "/>
+    <polygon class="fil3" points="10.63,6.76 7.55,6.76 7.55,8.36 10.63,8.36 11.33,7.96 12.02,7.56 11.33,7.16 "/>
+   </g>
+  </g>
+ </g>
+</svg>
