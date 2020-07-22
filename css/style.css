@@ -1,4 +1,4 @@
-/* Generated on: Wed Jul 22 2020 16:54:01 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Jul 22 2020 17:26:19 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -18088,7 +18088,19 @@ img {
 }
 
 .column-78 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   padding-right: 40px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: end;
+  align-items: flex-end;
   text-align: right;
 }
 
@@ -29142,7 +29154,12 @@ img {
     padding: 25px;
   }
   .section-3.tint {
-    min-height: 40px;
+    width: 100%;
+    height: 807px;
+    max-height: 807px;
+    max-width: 100%;
+    min-height: 807px;
+    min-width: 100%;
   }
   .portfolio-tab-button-2 {
     width: 100%;
@@ -32953,7 +32970,8 @@ img {
     padding-bottom: 20px;
   }
   .section-23.plan {
-    height: 484px;
+    max-height: 484vh;
+    min-height: 40vh;
     padding-bottom: 100px;
     background-image: radial-gradient(circle farthest-corner at 50% 50%, #b7e2f5, rgba(43, 138, 175, 0.77)), -webkit-gradient(linear, left top, left bottom, from(#42b8ea), to(#42b8ea));
     background-image: radial-gradient(circle farthest-corner at 50% 50%, #b7e2f5, rgba(43, 138, 175, 0.77)), linear-gradient(180deg, #42b8ea, #42b8ea);
@@ -37551,6 +37569,7 @@ img {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
+    margin-top: -30px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -37563,7 +37582,9 @@ img {
   }
   .section-23.plan {
     width: 100%;
-    height: 620px;
+    height: 60vh;
+    max-height: none;
+    min-height: 70vh;
     margin-bottom: 0px;
     padding-bottom: 220px;
   }
@@ -37868,7 +37889,6 @@ img {
     text-align: center;
   }
   .image-54 {
-    width: 100%;
     margin-bottom: -320px;
   }
   .bold-text-149 {
