@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.408504in" height="0.408528in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10.34 10.34"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil8 {fill:#3397DB;fill-rule:nonzero}
+    .fil2 {fill:#72BADF;fill-rule:nonzero}
+    .fil6 {fill:#7E8C8E;fill-rule:nonzero}
+    .fil4 {fill:#BCC3C6;fill-rule:nonzero}
+    .fil7 {fill:#DF5B49;fill-rule:nonzero}
+    .fil3 {fill:#EBEDEF;fill-rule:nonzero}
+    .fil5 {fill:#EFC849;fill-rule:nonzero}
+    .fil0 {fill:#F0C30F;fill-rule:nonzero}
+    .fil1 {fill:#F29A11;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="__x0023_Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2296393403968">
+   <g>
+    <path class="fil0" d="M10.34 5.17c0,2.85 -2.31,5.17 -5.17,5.17 -2.85,0 -5.17,-2.32 -5.17,-5.17 0,-2.86 2.31,-5.17 5.17,-5.17 2.85,0 5.17,2.31 5.17,5.17z"/>
+    <path class="fil1" d="M10.34 5.18l-2.96 -2.96c-0.05,-0.09 -0.16,-0.15 -0.29,-0.15l-3.83 0c-0.18,0 -0.32,0.12 -0.32,0.26l0 0.12 0 0.38 0 0.25 0 4.2 0 0.25 0 0.49c0,0.09 0.05,0.16 0.13,0.21l2.12 2.12c2.84,-0.01 5.15,-2.31 5.15,-5.16z"/>
+   </g>
+   <g>
+    <g>
+     <polygon class="fil2" points="2.93,2.44 2.93,7.27 7.4,7.27 7.4,2.44 "/>
+    </g>
+    <g>
+     <g>
+      <path class="fil3" d="M7.08 2.07l-3.83 0c-0.18,0 -0.32,0.12 -0.32,0.26l0 0.49 0 0.25 0 4.2 0 0.25 0 0.49c0,0.14 0.14,0.26 0.32,0.26l3.83 0c0.18,0 0.32,-0.11 0.32,-0.26l0 -0.49 0 -0.25 0 -4.2 0 -0.25 0 -0.49c0,-0.14 -0.14,-0.26 -0.32,-0.26zm0.14 5.2l0 0 -4.12 0 0.02 -4.56 4.12 0 -0.02 4.56z"/>
+     </g>
+    </g>
+    <path class="fil4" d="M5.45 7.79c0,0.16 -0.13,0.29 -0.28,0.29 -0.16,0 -0.28,-0.13 -0.28,-0.29 0,-0.16 0.13,-0.28 0.28,-0.28 0.16,0 0.28,0.13 0.28,0.28z"/>
+   </g>
+   <g>
+    <g>
+     <polygon class="fil5" points="6.98,4.4 3.35,4.4 3.35,3.81 6.98,3.81 "/>
+    </g>
+    <g>
+     <polygon class="fil6" points="6.9,5.89 5.75,5.89 5.75,4.63 6.9,4.63 "/>
+    </g>
+    <g>
+     <g>
+      <polygon class="fil3" points="3.35,4.67 3.35,4.79 5.45,4.79 5.45,4.67 "/>
+      <polygon class="fil3" points="3.35,5.04 3.35,5.17 5.45,5.17 5.45,5.04 "/>
+      <polygon class="fil3" points="3.35,5.43 3.35,5.55 5.45,5.55 5.45,5.43 "/>
+      <polygon class="fil3" points="3.35,5.81 3.35,5.93 5.45,5.93 5.45,5.81 "/>
+      <polygon class="fil3" points="3.35,6.31 6.9,6.31 6.9,6.18 3.35,6.18 "/>
+      <polygon class="fil3" points="3.35,6.69 6.9,6.69 6.9,6.56 3.35,6.56 "/>
+      <polygon class="fil3" points="3.35,7.06 6.9,7.06 6.9,6.94 3.35,6.94 "/>
+     </g>
+    </g>
+    <polygon class="fil7" points="3.35,3.03 3.35,3.62 4.4,3.62 4.4,3.03 "/>
+    <polygon class="fil8" points="4.74,3.03 4.74,3.62 6.98,3.62 6.98,3.03 "/>
+   </g>
+  </g>
+ </g>
+</svg>
