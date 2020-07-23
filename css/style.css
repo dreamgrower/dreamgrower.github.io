@@ -1,4 +1,4 @@
-/* Generated on: Thu Jul 23 2020 00:10:34 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Jul 23 2020 00:21:22 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -33188,6 +33188,9 @@ img {
     margin-right: 20px;
     margin-left: 0px;
   }
+  .text-block-27-copy-2._1-copy._1 {
+    max-width: 100%;
+  }
   .columns-17 {
     width: 100%;
     max-height: 700px;
@@ -33287,6 +33290,7 @@ img {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
+    max-width: 100%;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -33381,6 +33385,9 @@ img {
     font-size: 36px;
     line-height: 44px;
     font-weight: 600;
+  }
+  .div-block-144 {
+    margin-bottom: 0px;
   }
   .drchecklist-copy-5 {
     margin-bottom: 30px;
