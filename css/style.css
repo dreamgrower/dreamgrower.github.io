@@ -1,4 +1,4 @@
-/* Generated on: Thu Jul 23 2020 00:21:22 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Jul 23 2020 00:33:45 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -38191,8 +38191,11 @@ img {
     width: 100%;
   }
   .div-block-155 {
-    width: 774px;
-    max-width: 774px;
+    width: 494px;
+    height: 70px;
+    max-height: 70px;
+    max-width: 494px;
+    min-height: 20px;
     background-image: none;
     background-size: auto;
   }
